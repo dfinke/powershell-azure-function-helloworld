@@ -9,8 +9,7 @@ Check out [Awesome Powershell Azure Functions](https://github.com/dfinke/awesome
 
 # How To
 
-- Clone the repo
-    1. `git clone https://github.com/dfinke/powershell-azure-function-helloworld.git`
-    1. cd `powershell-azure-function-helloworld`
-    1. `func start`
-    1. Paste into a browser `http://localhost:7071/api/powershell-azure-function-helloworldHttpTrigger`
+1. `git clone https://github.com/dfinke/powershell-azure-function-helloworld.git`
+1. cd `powershell-azure-function-helloworld`
+1. `func start`
+1. Paste into a browser `http://localhost:7071/api/powershell-azure-function-helloworldHttpTrigger`
