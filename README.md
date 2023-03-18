@@ -2,6 +2,8 @@
 
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/?repository=https://github.com/dfinke/powershell-azure-function-helloworld/tree/master)
 
+![Deploy to Azure](https://aka.ms/deploytoazurebutton)
+
 Check out [Awesome Powershell Azure Functions](https://github.com/dfinke/awesome-powershell-azure-functions)
 
 # Some Prerequisites
