@@ -1,6 +1,6 @@
 # PowerShell Azure Function Hello World
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)]()
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/dfinke/powershell-azure-function-helloworld/master/azuredeploy.json)
 
 <!-- [![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/?repository=https://github.com/dfinke/powershell-azure-function-helloworld/tree/master) -->
 
