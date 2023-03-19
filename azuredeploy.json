@@ -32,13 +32,6 @@
         "metadata": {
           "description": "The storage account location."
         }
-      },
-      "storageAccountName": {
-        "type": "string",
-        "defaultValue": "[format('store{0}', uniqueString(resourceGroup().id))]",
-        "metadata": {
-          "description": "The name of the storage account"
-        }
       }
     },
     "resources": [
